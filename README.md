@@ -22,3 +22,7 @@ Or:
 3. Inheritance
 4. Callback-based events
 5. Multi-threaded design
+
+# Demo
+
+![Gif of resulting GUI](img/SortingViz.gif)
